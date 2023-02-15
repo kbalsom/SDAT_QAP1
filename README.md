@@ -1,4 +1,6 @@
-# SDAT_QAP1
+Written By: Kara Balsom
+
+Date Written: February 8, 2023
 
 The first assessment for Software Design, Architecture, and Testing class (Semester 4). Assessing Junit Testing.
 
